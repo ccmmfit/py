@@ -1,4 +1,3 @@
-#Îå½ÇĞÇ
 from turtle import Turtle
 
 p = Turtle()
